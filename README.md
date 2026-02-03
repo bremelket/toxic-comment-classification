@@ -364,7 +364,7 @@ Actual Toxic               Low               High
 ## 📧 Contact
 
 **Ekaterina Bremel**
-- LinkedIn: [linkedin.com/in/ekaterina-bremel](#)
+- LinkedIn: [linkedin.com/in/ekaterina-bremel-65b1b1238](#)
 - Email: bremelket@gmail.com
 - GitHub: [@bremelket](#)
 
